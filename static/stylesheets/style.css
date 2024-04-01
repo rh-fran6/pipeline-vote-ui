@@ -77,15 +77,15 @@ button.b{
 }
 
 .vote-button {
-  display: inline-block; /* Display buttons inline */
-  margin: 0 10px; /* Add some space between the buttons */
-  padding: 10px 20px; /* Add padding to the buttons */
-  font-size: 16px; /* Set the font size */
-  border: none; /* Remove button border */
-  /* background-color: #007bff;  */
-  color: #fff; /* Set text color */
-  cursor: pointer; /* Change cursor to pointer on hover */
-  transition: background-color 0.3s ease; /* Add transition effect */
+  display: inline-block; 
+  /* margin: 0 10px; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  border: none; 
+  background-color: #007bff; 
+  color: #fff; 
+  cursor: pointer; 
+  transition: background-color 0.3s ease;  */
 }
 
 #choice a{
