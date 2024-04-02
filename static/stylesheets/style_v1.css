@@ -6,9 +6,9 @@
 html,body{
   margin: 0;
   padding: 0;
-  background-color: #F7F8F9;
   height: 100vh;
   font-family: 'Open Sans';
+  background-color: #f7f7f7
 }
 
 button{
@@ -32,13 +32,20 @@ button.a{
 }
 
 button.b{
-  background-color: #959595;
+  background-color: #0b0808;
 }
 
 #tip{
-  text-align: left;
+  text-align: center;
   color: #c0c9ce;
   font-size: 14px;
+}
+
+img{
+  height: 150px;
+  width: 150px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 #hostname{
@@ -85,7 +92,6 @@ button.b{
 }
 
 #choice button{
-  display: block;
   height: 80px;
   width: 330px;
   border: none;
