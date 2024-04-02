@@ -6,9 +6,10 @@
 html,body{
   margin: 0;
   padding: 0;
-  background-color: #F7F8F9;
+  /* background-color: #F7F8F9; */
   height: 100vh;
   font-family: 'Open Sans';
+  background-color: coral;
 }
 
 button{
@@ -28,17 +29,16 @@ button i{
 }
 
 button.a{
-  /* background-color: #e00; */
-  background-color: rgb(5, 244, 69);
+  background-color: #e00;
 }
 
 button.b{
-  /* background-color: #959595; */
-  background-color: #4803f6;
+  background-color: #959595;
 }
 
 #tip{
-  text-align: left;
+  /* text-align: left; */
+  text-align: center;
   color: #c0c9ce;
   font-size: 14px;
 }
